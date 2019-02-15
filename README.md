@@ -1,5 +1,5 @@
 ## rtl8188eus v5.3.9
-modify for i.MX6 on Android 7.1.1
+modify for i.MX6 on Android 7.1.1（kernel 4.1.15）
 # Realtek rtl8188eus &amp; rtl8188eu &amp; rtl8188etv WiFi driver
 
 [![Monitor mode](https://img.shields.io/badge/monitor%20mode-supported-brightgreen.svg)](#)
